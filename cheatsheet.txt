@@ -1,0 +1,30 @@
+- - - CREAMOS MUESTRO PROYECTO - - -
+
+git init
+crear archivos
+git add.
+git config user.name nombre
+git config user.email email@email.com
+git commit -m "mensaje"
+
+- - Vinculamos con el repositorio remoto - -
+git remote add origin "nombre del repositorio remoto"
+
+- - Subimos los cambios - -
+git push origin main
+
+- - Bajar cambios - -
+git pull origin main
+
+- - Cuando queremos copiar otro repositiorio que ya se encuentra en github - -
+git clone "nombre del repositorio remoto"
+
+- - Modificar archivos o crear archivos - -
+git add .
+git commit -m "agregando cosas"
+
+- - Subir cambios al repo remoto - -
+git push origin main
+
+- - Bajar cambios - -
+git pull origin main
