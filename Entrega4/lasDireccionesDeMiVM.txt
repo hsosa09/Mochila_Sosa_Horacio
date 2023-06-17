@@ -1,0 +1,5 @@
+IP Privada: 10.0.2.15
+MAC: 08:00:27:b6:80:a6
+
+¿Es diferente a la IP pública y privada de nuestra máquina host?
+La IP pública identifica tu red en Internet, la IP privada se usa para la comunicación interna en tu red local.
